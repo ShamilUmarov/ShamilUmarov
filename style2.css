@@ -1,0 +1,43 @@
+body{
+  margin: 20% auto;
+  text-align: center;
+}
+.btn{
+padding: 10px 16px;
+margin: 10px;
+border-radius: 5px; 
+border: none;
+
+}
+.bth-blue{
+  background: blue;
+  
+}
+.bth-grye{
+  background: gray;
+  
+}
+.bth-green{
+  background: green;
+
+}
+.bth-red{
+  background: red;
+  
+}
+.bth-yellow{
+  
+  background: yellow;
+}
+.bth-c{
+  background: turquoise;
+
+}
+.bth-white{
+  background: white;
+
+}
+.bth-brown{
+  background: rgb(49, 37, 37);
+  
+}
