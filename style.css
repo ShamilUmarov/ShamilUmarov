@@ -1,0 +1,74 @@
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+.tetx-justify {
+  text-align: justify;
+}
+.text-bold {
+  text-align: bold;
+}
+.text-underline {
+  text-align: underline;
+}
+.text-italic {
+  text-align: italic;
+}
+.text-blue {
+  text-align: blue;
+}
+.text-red {
+  text-align: red;
+}
+.text-green {
+  text-align: green;
+}
+.text-yelow {
+  text-align: yellow;
+}
+.text-white {
+  text-align: white;
+}
+.bg-blue {
+  background: blue;
+}
+.bg-red {
+  background: red;
+}
+.bg-green {
+  background: green;
+}
+
+.bg-yellow {
+  background: yellow;
+}
+.bg-white {
+  background: white;
+}
+.border {
+  border: 10px solid darkgrey;
+  padding: 5px;
+}
+.alingleft {
+  float: right;
+  margin: 20px;
+}
+.aling-right {
+  float: left;
+  margin: 20px;
+}
+.bordedr-dashed {
+  border: dashed;
+}
+.border-datted {
+  border: dotted;
+}
+.border-rounded {
+  border-radius: 10px;
+  
+}
+
+
+
